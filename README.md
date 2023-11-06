@@ -6,7 +6,7 @@
  + This dictionary app is constantly updated with new slang and abbreviations, so you can always stay current with the latest internet lingo.
 + All you need to do is start entering a slang in the search bar, and the meaning will be provided. Below the main meaning of the slang could be alternative meanings.
 
-
+ 
 ### Tech Stack
 
 This project uses:
